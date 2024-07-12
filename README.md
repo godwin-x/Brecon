@@ -29,8 +29,8 @@ Clone this repository to your local machine:
 
 bash
 
-git clone https://github.com/yourusername/auto-recon-tool.git
-cd auto-recon-tool
+git clone [https://github.com/godwin-x/Brecon.git](https://github.com/godwin-x/Brecon.git)
+cd Brecon
 
 Usage
 
