@@ -40,7 +40,7 @@ Usage
 
 bash
 
-python auto_recon_tool.py
+python Brecon.py
 
 The script will perform the following steps:
 
